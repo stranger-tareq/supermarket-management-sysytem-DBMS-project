@@ -1,5 +1,5 @@
 # supermarket-management-sysytem-DBMS-project
-I create a supermarket database management system, which is able to: 
+I have created a supermarket database management system, which is able to: 
 1. Store data, update data, delete data, 
 2. Get the employees of a department; 
 3. Get the inventory of a commodity; 
